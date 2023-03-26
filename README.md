@@ -1,16 +1,12 @@
 ### 😄Hey! Nice to see you.
 
-<!--
-**KimHyeonBin990/KimHyeonBin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### 🔞 개발 환경
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 C++	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 👁
+### 🥇 
 
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
